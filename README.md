@@ -22,7 +22,7 @@ After you have the libraries installed, you can run the Python script and enjoy 
 ## Contributions
 If you would like to contribute to this project, please clone the repository and create a separate branch:
 ```ssh
-git clone git@github.com:kristinalagasca/GuessTheAuthor.git
+git clone git@github.com:xtinamarie/GuessTheAuthor.git
 git checkout -b <branchname>
 ```
 
